@@ -24,5 +24,8 @@ class Dog
       end
     end
 
+  def save
+    @@all << save
+  end
 
 end
